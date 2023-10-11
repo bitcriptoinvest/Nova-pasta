@@ -1402,12 +1402,16 @@ canvas#yourChart {
 }
 .faq-section.pt-100 {
     padding-top: 45px;
+    padding-bottom: 0px !important;
+}
+.footer-logo{
+    text-align: center;
 }
 .team-section.pb-80 {
     padding-bottom: 45px;
 }
 .faq-thumb {
-    margin-top: 333px;
+    margin-top: 0px;
 }
 .right-side-info {
     padding: 43px 15px 40px 14px;
@@ -1422,7 +1426,7 @@ canvas#yourChart {
     height: 830px;
 }
 .road-thumb {
-    left: -74px;
+    left: -10px;
 }
 .slider-area.two .slider-content h1 {
     font-size: 23px;
